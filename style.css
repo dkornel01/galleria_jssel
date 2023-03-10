@@ -1,0 +1,17 @@
+/*article img{
+    width: 50%;
+}
+article {
+    flex-flow: wrap row;
+    justify-content: space-between;
+    flex: 0 0;
+    
+}
+section img{
+    width:80%;
+    
+}*/
+
+img {
+    width:100px;
+}
