@@ -1,4 +1,4 @@
-/*article img{
+article img{
     width: 50%;
 }
 article {
@@ -10,8 +10,5 @@ article {
 section img{
     width:80%;
     
-}*/
-
-img {
-    width:100px;
 }
+
