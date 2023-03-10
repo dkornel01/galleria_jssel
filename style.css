@@ -1,14 +1,11 @@
-article img{
-    width: 50%;
+article img {
+  width: 50%;
 }
 article {
-    flex-flow: wrap row;
-    justify-content: space-between;
-    flex: 0 0;
-    
+  flex-flow: wrap row;
+  justify-content: space-between;
+  flex: 0 0;
 }
-section img{
-    width:80%;
-    
+section img {
+  width: 80%;
 }
-
