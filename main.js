@@ -22,12 +22,12 @@ function init() {
 }
 
 function elhelyezes(tarto, articleELEM) {
-  
   for (let i = 0; i < tarto.length; i++) {
     articleELEM[0].innerHTML += `<img src=${tarto[i]} alt="kep" >`;
   }
   articleELEM[0].innerHTML += "<div>";
 }
+
 function fuggveny(index, tarto) {
   const nagykep = document.querySelectorAll("section div img");
   console.log(nagykep);
