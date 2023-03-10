@@ -1,10 +1,13 @@
 article img {
-  width: 50%;
+  width: 30%;
+  padding: 10px;
+  gap: 10px;
 }
 article {
   flex-flow: wrap row;
-  justify-content: space-between;
-  flex: 0 0;
+  justify-content: space-evenly;
+  flex: 0 10px;
+  margin: 10px;
 }
 section img {
   width: 80%;
