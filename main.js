@@ -24,7 +24,7 @@ function init() {
 function elhelyezes(tarto, articleELEM) {
   articleELEM[0].innerHTML += "<div>";
   for (let i = 0; i < tarto.length; i++) {
-    articleELEM[0].innerHTML += `<img src=${tarto[i]} alt="kep">`;
+    articleELEM[0].innerHTML += `<img src=${tarto[i]} >`;
   }
   articleELEM[0].innerHTML += "</div>";
 }
